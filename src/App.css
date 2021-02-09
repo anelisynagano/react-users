@@ -1,0 +1,14 @@
+.cards-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+}
